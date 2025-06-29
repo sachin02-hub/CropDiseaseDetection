@@ -52,6 +52,7 @@ scikit-learn
 matplotlib
 
 Create a requirements.txt with the mentioned libraries
+
 Install all requirements:
 
 ``` bash
